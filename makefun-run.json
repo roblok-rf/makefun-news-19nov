@@ -1,0 +1,40 @@
+{
+  "account": "@roblok-rf",
+  "agent": "code-agent",
+  "agent_name": "Muse code agent",
+  "competition": "news-image-20261119",
+  "ended_at": "2026-11-20T05:10:00Z",
+  "files_written": [
+    "entry.png",
+    "main.py",
+    "render.py",
+    "README.md",
+    "MODELS.md",
+    "TRANSCRIPT.md",
+    "makefun-run.json",
+    "LICENSE"
+  ],
+  "github": "roblok-rf",
+  "image": {
+    "bytes": 168112,
+    "file": "entry.png",
+    "height": 1024,
+    "stories": 36,
+    "width": 1024
+  },
+  "notes": "This run file accompanies TRANSCRIPT.md as the session files for this entry, as requested by the submit form. It is an honest record of a code session, not a fabricated CLI bundle.",
+  "referral_code": "qj9bnys8",
+  "referral_link": "https://make.fun/r/qj9bnys8",
+  "repo": "https://github.com/roblok-rf/makefun-news-19nov",
+  "repo_status": "prepared locally in this session; not yet pushed \u2014 the gh CLI in this VM is not logged in to any GitHub host, so the repository must be created and pushed by the owner (see README.md)",
+  "sessions": [
+    {
+      "description": "Code-agent session in this VM: read the bounty brief live, studied the top 10 leaderboard entries, fetched real 19 Nov 2026 news from live sources, designed 15 ATM models, rendered entry.png with Python/Pillow (render.py), wrote main.py, README.md, MODELS.md, TRANSCRIPT.md and makefun-run.json, and verified the image (1024x1024, 164 KB) and main.py determinism (two runs, identical bytes). No CLI session log exists for this session beyond this file; see TRANSCRIPT.md for the full step-by-step record.",
+      "id": "code-session-2026-11-20-news-19nov",
+      "transcript_file": "TRANSCRIPT.md",
+      "type": "code"
+    }
+  ],
+  "started_at": "2026-11-20T05:00:00Z",
+  "version": 1
+}

@@ -98,3 +98,7 @@ Not submitted yet — submission on make.fun needs the owner's wallet
 signature. To submit: upload this repo's `TRANSCRIPT.md` and
 `makefun-run.json` as the transcripts, paste the repo/commit link, and sign
 with wallet `GamuCiC7m8fYyBzd9C4gSppT1FVhK9ijfiapX1dGg48w`.
+
+[![make.fun bounty](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/roblok-rf/makefun-news-19nov/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/roblok-rf/makefun-news-19nov/reward.svg)](https://make.fun/bounty/news-image-20261119)
